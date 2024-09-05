@@ -1,6 +1,6 @@
 # 序言
 (For contributers: please contact QQ:1849511586, email: c8h16o2@outlook.com, or check out and pull request at https://gitee.com/shengxin-li/nankai-survival-guide.)
-![封面](pictures\cover.jpg)
+![封面](pictures/cover.jpg)
 ##### 作者 201803 李盛忻
 ## 写在前面
 2018年7月，我中考出分了。塘沽区第二，这意味着我可以从南开中学和一中里随意挑选。最终来南开了。  
