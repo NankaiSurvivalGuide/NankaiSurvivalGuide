@@ -1,6 +1,6 @@
 # Table of contents
 
-* [南开中学生存指南](README.md)
+* [南开生存手册](README.md)
 * [序言](foreword.md)
 * [旧版本《南开生存手册》](previous.md)
 * [NankaiSurvivalGuide](README.en.md)
