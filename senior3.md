@@ -102,8 +102,8 @@
 
 TODO
 
-## 要不要报强基？
+## 要不要去强基？
 
 由于篇幅过长，决定单开一页。
 
-[点击此处跳转](advanced.md#yao-bu-yao-bao-qiang-ji)
+[点击此处跳转](advanced.md#yao-bu-yao-qu-qiang-ji)
