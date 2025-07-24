@@ -51,7 +51,7 @@
 
 由于篇幅过长，决定单开一页。
 
-[点击此处跳转](advanced.md#要不要去强基)
+[点击此处跳转](advanced.md#yao-bu-yao-qu-qiang-ji)
 
 ## 怎么选大学、专业？
 
