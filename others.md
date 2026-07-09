@@ -8,7 +8,7 @@
 
 **作者 201803 一瓶酸奶**
 
-![题图](pictures/food/QQpic20210802225545.jpg)
+![题图](https://github.com/NankaiSurvivalGuide/NankaiSurvivalGuide/blob/main/pictures/food/QQpic20210802225545.jpg)
 
 ### 写在前面
 
