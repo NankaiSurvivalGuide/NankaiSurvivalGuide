@@ -73,7 +73,13 @@
 
 ### 其他
 
-1. [食堂什么好吃？不吃食堂的话，学校周围/外卖有什么好吃的？](others.md#shi-zai-nan-kai-1.0)
+1. [南开中学食堂概述](cafeteria.md)
 2. [体选哪个好？](others.md#ti-yu-xuan-xiu-ke-tui-jian)
 3. 怎么让自己的生活有趣一些？
 4. 待补
+
+
+
+### 已过时的资料
+
+1. [食堂什么好吃？不吃食堂的话，学校周围/外卖有什么好吃的？](others.md#shi-zai-nan-kai-1.0)
