@@ -13,4 +13,5 @@
 * [高考后](after.md)
 * [随笔](essay.md)
 * [其它](others.md)
+* [南开中学食堂概述](cafeteria.md)
 * [总标题](formatExample.md)
