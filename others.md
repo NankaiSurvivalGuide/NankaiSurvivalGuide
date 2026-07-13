@@ -6,6 +6,11 @@
 
 ## 食在南开1.0✨
 
+
+{% hint style="danger" %}
+这篇文章现已被[这篇文章](cafeteria.md)取代,该文章仅用作历史资料保存
+{% endhint %}
+
 **作者 201803 一瓶酸奶**
 
 ![题图](https://github.com/NankaiSurvivalGuide/NankaiSurvivalGuide/blob/main/pictures/food/QQpic20210802225545.jpg)
