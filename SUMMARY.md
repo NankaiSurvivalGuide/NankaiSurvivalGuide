@@ -9,7 +9,7 @@
 * [高考外内容](advanced.md)
 * [高一](senior1.md)
 * [高三](senior3.md)
+* [其它](others.md)
 * [高考后](after.md)
 * [随笔](essay.md)
-* [其它](others.md)
 * [总标题](formatExample.md)
