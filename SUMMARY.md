@@ -8,7 +8,6 @@
 * [入学前](before.md)
 * [高考外内容](advanced.md)
 * [高一](senior1.md)
-* [高二](senior2.md)
 * [高三](senior3.md)
 * [高考后](after.md)
 * [随笔](essay.md)

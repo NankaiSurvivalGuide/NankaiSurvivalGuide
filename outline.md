@@ -13,11 +13,13 @@
 6. [入轨教育](before.md#ru-gui-jiao-yu)
 7. 待补
 
-### 高考之外
+### 其他
 
-1. [要不要学竞赛？](advanced.md#yao-bu-yao-xue-jing-sai)
-2. [要不要报强基？](advanced.md#yao-bu-yao-bao-qiang-ji)
-3. [要不要去强基？](advanced.md#yao-bu-yao-qu-qiang-ji)
+1. [南开中学食堂概述](others.md#nan-kai-zhong-xue-shi-tang-gai-shu)
+2. [食堂什么好吃？不吃食堂的话，学校周围/外卖有什么好吃的？（旧）](others.md#shi-zai-nan-kai-1.0)
+3. [体选哪个好？](others.md#ti-yu-xuan-xiu-ke-tui-jian)
+4. 怎么让自己的生活有趣一些？
+5. 待补
 
 ### 高一
 
@@ -33,11 +35,6 @@
 10. [选科？](senior1.md#xuan-ke)
 11. 怎么定目标？
 12. 待补
-
-### 高二
-
-1. 学校的主要职能部门？（如果成为了xx社长/部长，得找哪个老师打交道？老师的性格特点？
-2. 待补
 
 ### 高三
 
@@ -58,6 +55,12 @@
 15. [怎么应付高考四天持久战？](senior3.md#zen-me-ying-fu-gao-kao-si-tian-chi-jiu-zhan)
 16. [要不要报强基](senior3.md#yao-bu-yao-bao-qiang-ji)
 
+### 高考之外
+
+1. [要不要学竞赛？](advanced.md#yao-bu-yao-xue-jing-sai)
+2. [要不要报强基？](advanced.md#yao-bu-yao-bao-qiang-ji)
+3. [要不要去强基？](advanced.md#yao-bu-yao-qu-qiang-ji)
+
 ### 高考后
 
 1. [要不要对答案？要不要记答案？](after.md#yao-bu-yao-dui-da-an-ji-da-an)
@@ -70,10 +73,3 @@
 8. [一切既定，我暑假该干什么？](after.md#lu-qu-jie-shu-le-sheng-xia-de-shu-jia-ying-gai-gan-shen-me)
 9. 各大学生存手册？
 10. 待补
-
-### 其他
-
-1. [食堂什么好吃？不吃食堂的话，学校周围/外卖有什么好吃的？](others.md#shi-zai-nan-kai-1.0)
-2. [体选哪个好？](others.md#ti-yu-xuan-xiu-ke-tui-jian)
-3. 怎么让自己的生活有趣一些？
-4. 待补
